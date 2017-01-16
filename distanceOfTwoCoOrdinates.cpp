@@ -1,3 +1,5 @@
+/* http://www.purplemath.com/modules/distform.htm */
+
 #include <iostream>
 #include <cmath>
 using namespace std;
