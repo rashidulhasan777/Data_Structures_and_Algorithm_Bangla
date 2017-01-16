@@ -1,4 +1,5 @@
-/* This program calculate the angles of a triangle from given lengths */
+/* This program calculate the angles of a triangle from given lengths 
+http://mathcentral.uregina.ca/qq/database/qq.09.07/h/lucy1.html */
 
 #include <iostream>
 #include <cmath>
